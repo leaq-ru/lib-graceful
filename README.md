@@ -1,1 +1,1 @@
-# scr-lib-handle-signals
+# scr-lib-graceful
